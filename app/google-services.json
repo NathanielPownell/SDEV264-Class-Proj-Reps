@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391842264468",
+    "project_id": "sdev-class-proj",
+    "storage_bucket": "sdev-class-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391842264468:android:b5d15adcac48312bbd4b81",
+        "android_client_info": {
+          "package_name": "com.sdev_class_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391842264468-ovrnh0rcjkehj68g7m9vsmm1jv5v5ufl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdev_class_project",
+            "certificate_hash": "173273449e0fa92f674b9d3324dced3296f10942"
+          }
+        },
+        {
+          "client_id": "391842264468-vi8mi2q490fkgh67pr9hrodkbl20lk45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSX16JVbJhfs9T0BSuzTN6NCGvxSRlEKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391842264468-vi8mi2q490fkgh67pr9hrodkbl20lk45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
